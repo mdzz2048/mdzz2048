@@ -17,10 +17,10 @@
 <!-- 统计信息 -->
 <!-- REF https://github.com/anuraghazra/github-readme-stats -->
 <a href="https://github.com/anuraghazra/github-readme-stats">
-    <picture>
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats-sooty.vercel.app/api?username=mdzz2048&show_icons=true&include_all_commits=true&theme=buefy">
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-sooty.vercel.app/api?username=mdzz2048&show_icons=true&include_all_commits=true&theme=nord">
-        <img alt="Anurag's GitHub stats" src="https://github-readme-streak-stats-sooty.vercel.app/api?username=mdzz2048&show_icons=true&include_all_commits=true&theme=buefy">
+    <picture> 
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=mdzz2048&show_icons=true&include_all_commits=true&theme=buefy">
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=mdzz2048&show_icons=true&include_all_commits=true&theme=nord">
+        <img alt="Anurag's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=mdzz2048&show_icons=true&include_all_commits=true&theme=buefy">
     </picture>
 </a>
 <br />
