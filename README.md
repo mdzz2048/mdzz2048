@@ -27,22 +27,22 @@
 
 <!-- 连续提交 -->
 <!-- REF https://github.com/denvercoder1/github-readme-streak-stats -->
-<a href="https://github.com/denvercoder1/github-readme-streak-stats">
+<!-- <a href="https://github.com/denvercoder1/github-readme-streak-stats">
     <picture>
         <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com?user=mdzz2048&date_format=Y%2Fn%2Fj&border=E4E2E2&ring=8F72DB&currStreakNum=363636&currStreakLabel=7958D5&theme=buefy">
         <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=mdzz2048&date_format=Y%2Fn%2Fj&ring=7490AC&currStreakNum=D8DEE9&currStreakLabel=80A0C0&theme=nord">
         <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com?user=mdzz2048&date_format=Y%2Fn%2Fj&border=E4E2E2&ring=8F72DB&currStreakNum=363636&currStreakLabel=7958D5&theme=buefy">
     </picture>
 </a>
-<br />
+<br /> -->
 
 <!-- 最近活动折线图 -->
 <!-- REF https://github.com/Ashutosh00710/github-readme-activity-graph -->
-<a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
+<!-- <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
     <picture>
         <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=mdzz2048&radius=8&title_color=7958d5&bg_color=ffffff&color=363636&line=BCABEA&point=8F72DB&area=true&area_color=8F72DB">
         <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=mdzz2048&radius=8&title_color=80A0C0&bg_color=2e3440&color=d8dee9&line=576A80&point=7490AC&area=true&area_color=7490AC">
         <img alt="GitHub Streak" src="https://github-readme-activity-graph.vercel.app/graph?username=mdzz2048&radius=8&title_color=7958d5&bg_color=ffffff&color=363636&line=BCABEA&point=8F72DB&area=true&area_color=8F72DB">
     </picture>
 </a>
-<br />
+<br /> -->
