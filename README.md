@@ -5,12 +5,11 @@
 
 <!-- 使用的语言 -->
 <!-- REF https://github.com/anuraghazra/github-readme-stats -->
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdzz2048&layout=compact&langs_count=8&show_icons=true&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats) -->
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <picture>
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mdzz2048&layout=compact&langs_count=10&show_icons=true&hide=jupyter%20notebook&theme=buefy">
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mdzz2048&layout=compact&langs_count=10&show_icons=true&hide=jupyter%20notebook&theme=nord">
-        <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdzz2048&layout=compact&langs_count=10&show_icons=true&hide=jupyter%20notebook&theme=buefy">
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mdzz2048&layout=compact&langs_count=10&show_icons=true&theme=buefy">
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mdzz2048&layout=compact&langs_count=10&show_icons=true&theme=nord">
+        <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdzz2048&layout=compact&langs_count=10&show_icons=true&theme=buefy">
     </picture>
 </a>
 <br />
